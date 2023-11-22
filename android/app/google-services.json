@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709166762892",
+    "project_id": "myflutter-7ff03",
+    "storage_bucket": "myflutter-7ff03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709166762892:android:b913e9f3134a584012e4a9",
+        "android_client_info": {
+          "package_name": "com.example.kebab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKx1gIgj-yqvkIqQ9xzI083zSe7fI0C_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
